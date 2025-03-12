@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Task_Manager\\Task_Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20057377-8F25-415A-A733-58279A1B42BA}|Task_Manager\\Task_Manager.vcxproj|C:\\Projects\\Task_Manager\\Task_Manager\\Task_Manager\\taskCollection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20057377-8F25-415A-A733-58279A1B42BA}|Task_Manager\\Task_Manager.vcxproj|solutionrelative:Task_Manager\\taskCollection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20057377-8F25-415A-A733-58279A1B42BA}|Task_Manager\\Task_Manager.vcxproj|C:\\Projects\\Task_Manager\\Task_Manager\\Task_Manager\\Alarm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20057377-8F25-415A-A733-58279A1B42BA}|Task_Manager\\Task_Manager.vcxproj|solutionrelative:Task_Manager\\Alarm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20057377-8F25-415A-A733-58279A1B42BA}|Task_Manager\\Task_Manager.vcxproj|C:\\Projects\\Task_Manager\\Task_Manager\\Task_Manager\\Notifications.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20057377-8F25-415A-A733-58279A1B42BA}|Task_Manager\\Task_Manager.vcxproj|solutionrelative:Task_Manager\\Notifications.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20057377-8F25-415A-A733-58279A1B42BA}|Task_Manager\\Task_Manager.vcxproj|C:\\Projects\\Task_Manager\\Task_Manager\\Task_Manager\\taskCollection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20057377-8F25-415A-A733-58279A1B42BA}|Task_Manager\\Task_Manager.vcxproj|solutionrelative:Task_Manager\\taskCollection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20057377-8F25-415A-A733-58279A1B42BA}|Task_Manager\\Task_Manager.vcxproj|C:\\Projects\\Task_Manager\\Task_Manager\\Task_Manager\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20057377-8F25-415A-A733-58279A1B42BA}|Task_Manager\\Task_Manager.vcxproj|solutionrelative:Task_Manager\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20057377-8F25-415A-A733-58279A1B42BA}|Task_Manager\\Task_Manager.vcxproj|C:\\Projects\\Task_Manager\\Task_Manager\\Task_Manager\\Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20057377-8F25-415A-A733-58279A1B42BA}|Task_Manager\\Task_Manager.vcxproj|solutionrelative:Task_Manager\\Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20057377-8F25-415A-A733-58279A1B42BA}|Task_Manager\\Task_Manager.vcxproj|C:\\Projects\\Task_Manager\\Task_Manager\\Task_Manager\\Task.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20057377-8F25-415A-A733-58279A1B42BA}|Task_Manager\\Task_Manager.vcxproj|solutionrelative:Task_Manager\\Task.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alarm.h",
+              "DocumentMoniker": "C:\\Projects\\Task_Manager\\Task_Manager\\Task_Manager\\Alarm.h",
+              "RelativeDocumentMoniker": "Task_Manager\\Alarm.h",
+              "ToolTip": "C:\\Projects\\Task_Manager\\Task_Manager\\Task_Manager\\Alarm.h",
+              "RelativeToolTip": "Task_Manager\\Alarm.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-12T05:38:49.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Notifications.h",
+              "DocumentMoniker": "C:\\Projects\\Task_Manager\\Task_Manager\\Task_Manager\\Notifications.h",
+              "RelativeDocumentMoniker": "Task_Manager\\Notifications.h",
+              "ToolTip": "C:\\Projects\\Task_Manager\\Task_Manager\\Task_Manager\\Notifications.h",
+              "RelativeToolTip": "Task_Manager\\Notifications.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-12T05:37:52.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Projects\\Task_Manager\\Task_Manager\\Task_Manager\\main.cpp",
+              "RelativeDocumentMoniker": "Task_Manager\\main.cpp",
+              "ToolTip": "C:\\Projects\\Task_Manager\\Task_Manager\\Task_Manager\\main.cpp",
+              "RelativeToolTip": "Task_Manager\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T05:36:07.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "taskCollection.cpp",
+              "DocumentMoniker": "C:\\Projects\\Task_Manager\\Task_Manager\\Task_Manager\\taskCollection.cpp",
+              "RelativeDocumentMoniker": "Task_Manager\\taskCollection.cpp",
+              "ToolTip": "C:\\Projects\\Task_Manager\\Task_Manager\\Task_Manager\\taskCollection.cpp",
+              "RelativeToolTip": "Task_Manager\\taskCollection.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T04:54:38.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "taskCollection.h",
+              "DocumentMoniker": "C:\\Projects\\Task_Manager\\Task_Manager\\Task_Manager\\taskCollection.h",
+              "RelativeDocumentMoniker": "Task_Manager\\taskCollection.h",
+              "ToolTip": "C:\\Projects\\Task_Manager\\Task_Manager\\Task_Manager\\taskCollection.h",
+              "RelativeToolTip": "Task_Manager\\taskCollection.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-12T03:14:55.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task.cpp",
+              "DocumentMoniker": "C:\\Projects\\Task_Manager\\Task_Manager\\Task_Manager\\Task.cpp",
+              "RelativeDocumentMoniker": "Task_Manager\\Task.cpp",
+              "ToolTip": "C:\\Projects\\Task_Manager\\Task_Manager\\Task_Manager\\Task.cpp",
+              "RelativeToolTip": "Task_Manager\\Task.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAD4v0IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T02:51:02.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task.h",
+              "DocumentMoniker": "C:\\Projects\\Task_Manager\\Task_Manager\\Task_Manager\\Task.h",
+              "RelativeDocumentMoniker": "Task_Manager\\Task.h",
+              "ToolTip": "C:\\Projects\\Task_Manager\\Task_Manager\\Task_Manager\\Task.h",
+              "RelativeToolTip": "Task_Manager\\Task.h",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-12T02:10:18.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
