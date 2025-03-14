@@ -53,5 +53,14 @@ public:
 	 * Shows every task that user has added.
 	 */
 	void displayCollection();
+
+	/**
+	 * Sorts the collection in various ways.
+	 * @see sortingModes.h for all the modes.
+	 */
+	void sortCollection();
 };
 #endif
+
+
+

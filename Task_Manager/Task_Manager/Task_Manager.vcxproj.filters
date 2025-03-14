@@ -27,6 +27,12 @@
     <ClInclude Include="Alarm.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="userPrompts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sortingModes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Task.cpp">

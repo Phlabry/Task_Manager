@@ -59,3 +59,19 @@ void taskCollection::displayCollection(){
 		task.getInfo();
 	}
 }
+
+/**
+ * @see taskCollection::sortCollection()
+ */
+
+void taskCollection::sortCollection() {
+	/**
+	 * @todo IMPLEMENT THIS. SOMEONE HELP
+	 * 
+	 */
+}
+
+
+
+
+

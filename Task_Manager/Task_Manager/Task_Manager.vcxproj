@@ -129,8 +129,10 @@
   <ItemGroup>
     <ClInclude Include="Alarm.h" />
     <ClInclude Include="Notifications.h" />
+    <ClInclude Include="sortingModes.h" />
     <ClInclude Include="Task.h" />
     <ClInclude Include="taskCollection.h" />
+    <ClInclude Include="userPrompts.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
